@@ -4,5 +4,5 @@
     "entry": "test.pwn",
     "output": "test.amx",
     "dependencies": ["sampctl/samp-stdlib", "Southclaws/progress2"],
-    "dev_dependencies": ["ScavengeSurvive/test-boilerplate", "Southclaws/zcmd"]
+    "dev_dependencies": ["Dystopian-Roleplay/test-boilerplate", "Southclaws/zcmd"]
 }
